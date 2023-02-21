@@ -2,7 +2,7 @@
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) (I've change somethings)
 
 # Necessary to install befor using it...
-- [Neovim](https://neovim.io/
+- [Neovim](https://neovim.io/)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) 
 - [python](https://www.python.org/downloads/) 
     - You need to change the path to python exe on the file **.\after\plugin\ultisnips.lua**

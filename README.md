@@ -9,7 +9,7 @@
 
 # Config this project in your pc
 1. Clone this project
-1. Cut and paste all files to **C:\Users\{user_folder}\AppData\Local\nvim**
+1. Cut and paste all files to **C:\Users\\{user_folder}\AppData\Local\nvim**
 1. Go to the file **.\after\plugin\ultisnips.lua** and change the path to python3 
 1. Go to folder **.\lua\configs** 
     1. Open terminal

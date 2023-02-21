@@ -93,6 +93,9 @@ return require('packer').startup(function(use)
   -- Snippet support
   use("sirver/ultisnips")
 
+  -- learning tools
+  use("ThePrimeagen/vim-be-good")
+  
   -- langs
   -- c#
   use("OmniSharp/Omnisharp-vim")

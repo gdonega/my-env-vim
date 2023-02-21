@@ -1,0 +1,1 @@
+vim.g.python3_host_prog = "C://tools//msys64//mingw64//bin//python3.exe"

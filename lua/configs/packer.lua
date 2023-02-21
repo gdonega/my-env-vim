@@ -82,14 +82,6 @@ return require('packer').startup(function(use)
   -- Autocompletion
   use("prabirshrestha/asyncomplete.vim")
 
-  -- Colorscheme
-  use("gruvbox-community/gruvbox")
-
-  -- Statusline
-  use("itchyny/lightline.vim")
-  use("shinchu/lightline-gruvbox.vim")
-  use("maximbaz/lightline-ale")
-
   -- Snippet support
   use("sirver/ultisnips")
 

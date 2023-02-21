@@ -1,7 +1,7 @@
 # Copied from...
-- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) (I've change somethings)
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) (I've change some things)
 
-# Necessary to install befor using it...
+# Necessary to install before using it...
 - [Neovim](https://neovim.io/)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) 
 - [python](https://www.python.org/downloads/) 
